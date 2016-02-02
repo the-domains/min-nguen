@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Min Nguen]]></title>
-        <description><![CDATA[Min Nguen]]></description>
+        <title><![CDATA[CONCEPT ARTIST]]></title>
+        <description><![CDATA[CONCEPT ARTIST]]></description>
         <link>https://thegrid.ai/min-nguen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 13:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 21:49:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/min-nguen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TITLE]]></title>
-            <description><![CDATA[<article><h1>TITLE</h1><p>TEST1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b74c698de73408127484246ec423f1a68d8e79.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>TITLE</h1><p>TEST1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c609306a203bc1beca0b8fa9eb11fefd2e3129a.jpg"></article>]]></description>
             <link>https://thegrid.ai/min-nguen/title/index.html</link>
             <guid isPermaLink="false">8ebaf16f-5e58-43a2-9f20-96a2b2a087c3</guid>
             <pubDate>Tue, 26 Jan 2016 13:28:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post 2? ]]></title>
-            <description><![CDATA[<article><h1>Post 2? </h1><p>POST 2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/616d8fa0a181734e1f1ddbc982c51131bdda584a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Post 2? </h1><p>POST 2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/902463c0a0c5a992c0de08f99fecaf89d02a5e69.jpg"></article>]]></description>
             <link>https://thegrid.ai/min-nguen/post-2/index.html</link>
             <guid isPermaLink="false">34ec51ef-992d-419a-a95f-2bd6b08054f1</guid>
-            <pubDate>Tue, 26 Jan 2016 13:28:48 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 21:48:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
